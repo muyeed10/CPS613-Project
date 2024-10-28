@@ -1,2 +1,2 @@
 # CPS613-Project
-COS613 Project
+CPS613 Project
